@@ -66,5 +66,11 @@
     <Build Include="4.1\Script02.sql" />
     <None Include="4.1\Script03.sql" />
     <Build Include="4.1\Script04.sql" />
+    <Build Include="4.1\Script05.sql" />
+    <Build Include="4.1\Script06.sql" />
+    <Build Include="4.1\Script07.sql" />
+    <Build Include="4.1\Script08.sql" />
+    <Build Include="4.1\Script09.sql" />
+    <Build Include="4.1\Script10.sql" />
   </ItemGroup>
 </Project>
