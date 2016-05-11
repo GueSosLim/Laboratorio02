@@ -83,6 +83,7 @@
     <Build Include="4.1\Script18.sql" />
     <Build Include="4.1\Script20.sql" />
     <Build Include="4.2\lab_02_02.sql" />
+    <Build Include="4.1\lab_02_01.sql" />
   </ItemGroup>
   <ItemGroup>
     <None Include="4.3\lab_02_03.sql" />
