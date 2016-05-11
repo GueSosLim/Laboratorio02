@@ -12,7 +12,7 @@ ADD LOG FILE
 	FILEGROWTH = 10%
 )
 /*
-Ejercicio 01
+Ejercicio 001
 */
 create table Departamento (
 	id int not null primary key,
